@@ -1,0 +1,71 @@
+html {
+    background-color:rgb(0, 0, 0);
+}
+/* here is my background*/
+
+.h1 {
+    color:rgb(60, 114, 58);
+
+}
+
+h2 {
+    text-align: center;
+}
+
+header {
+    background-image:url(https://as2.ftcdn.net/v2/jpg/01/10/37/29/1000_F_110372910_JVX6DZgWPREGwz6PaIdm6OAW3poOTIdc.jpg);
+    width:100%;
+    height:200px;
+    color:green;
+    text-align: center;
+   
+} 
+/* ps if image dosen't show up look in image folder*/
+
+body {   
+    font-size:100%;
+    color:white;
+    max-width: 80%;
+    margin: auto;
+    background-color: rgba(33, 81, 29, 0.723);
+
+}
+/* I chose to put my favourite colour as the background just to change it up */
+
+.above{
+    text-align: center;
+
+}
+.wrapper {
+    width:80%;
+    margin:auto;   
+}
+
+.soccer {
+    width:210px;
+    height: auto;
+    float:left;
+/*here is how I floated the image to the left next to the text*/
+}
+
+.container {
+    width:80%;
+    margin:auto;
+    border-style:solid;
+    border-width:1px;
+}
+
+.info {
+    background-color: white;
+    width: 80%;
+    height: 40px;
+    border: 10px 10px 10px;
+    border-color:black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+footer {
+    text-align:center;
+    margin:auto;
+}
