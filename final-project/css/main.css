@@ -245,15 +245,23 @@ a:visited {
   #plan {
     border: 2px 2px;
     font-family: 'Open Sans', sans-serif;
+    margin: 20px;
   }
 
+  #email {
+    margin: 20px;
+  }
+  #comment {
+    margin: 20px;
+    
+  }
+
+  form {
+padding: 5px;
+  }
  .contact {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
- }
-
- #comment {
-margin-bottom: 20px;
  }
 
  .center {
